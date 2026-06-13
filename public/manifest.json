@@ -1,0 +1,18 @@
+{
+  "name": "BasuraVision - Reportes GAMLP",
+  "short_name": "BasuraVision",
+  "description": "Reporte inteligente de acumulación de basura en La Paz, Bolivia",
+  "start_url": "/client",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#10b981",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
