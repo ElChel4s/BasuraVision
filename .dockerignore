@@ -1,0 +1,12 @@
+node_modules
+.next
+out
+build
+.git
+.env
+.env.local
+.env.development
+.env.production
+README.md
+supabase_setup.sql
+vps_deployment_guide.md
